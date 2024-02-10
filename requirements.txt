@@ -1,0 +1,10 @@
+Django
+djangorestframework
+markdown      
+django-filter 
+pygments
+ 
+
+
+#
+pre-commit
